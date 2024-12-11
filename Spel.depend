@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1732267566 source:d:\trabajo\skola sverige\programmering\practice\spel\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
